@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  DISTRO_ATHOR: michaelbadcrumble
+  DISTRO_ATHOR: michaelbrockus
   DISTRO_PACKAGE: application 
 
 jobs:
