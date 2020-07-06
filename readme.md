@@ -1,9 +1,9 @@
 # C Project
 
-![Mac OSX host system](https://github.com/michaelbadcrumble/c_project_template/workflows/Mac%20OSX%20host%20system/badge.svg)
-![Windows 10 host system](https://github.com/michaelbadcrumble/c_project_template/workflows/Windows%2010%20host%20system/badge.svg)
-![Linux host system](https://github.com/michaelbadcrumble/c_project_template/workflows/Linux%20host%20system/badge.svg)
-![Linux Distro Builder](https://github.com/michaelbadcrumble/c_project_template/workflows/Linux%20Distro%20Builder/badge.svg)
+![Mac OSX host system](https://github.com/michaelbrockus/c_project_template/workflows/Mac%20OSX%20host%20system/badge.svg)
+![Windows 10 host system](https://github.com/michaelbrockus/c_project_template/workflows/Windows%2010%20host%20system/badge.svg)
+![Linux host system](https://github.com/michaelbrockus/c_project_template/workflows/Linux%20host%20system/badge.svg)
+![Linux Distro Builder](https://github.com/michaelbrockus/c_project_template/workflows/Linux%20Distro%20Builder/badge.svg)
 
 ## About
 
