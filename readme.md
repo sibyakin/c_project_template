@@ -7,9 +7,9 @@
 
 ## About
 
-Some info about this app.
+Please add relevant information about your application.
 
-## Compile samples
+## Setup and Compile
 ------------------------------------------------
 
 Firstly the users should set up a project build directory before
