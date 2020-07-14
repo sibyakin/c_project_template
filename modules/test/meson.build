@@ -4,6 +4,6 @@ unity_dep = dependency('unity',
 
 test_exe = executable('test-prog',
     files('test_runner.c', 'test_cases.c'),
-    dependencies : [unity_dep, exe_dep])
+    dependencies : [unity_dep, code_dep])
 
 test('Running: Project unit test', test_exe)
